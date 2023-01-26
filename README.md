@@ -1,7 +1,7 @@
 <!-- Presentación -->
 <div>
     <h1>¡Hola!👋 Mi nombre es José Alejandro</h1>
-    <h5>Gracias por ver mi perfil, los repositorios más trabajados se encuentran en privado, pero en el futuro espero poder llenar más los publicos</h5>
+    <h3>Gracias por ver mi perfil, los repositorios más trabajados se encuentran en privado, pero en el futuro espero poder llenar más los publicos</h3>
     <p>Soy un estudiante mexicano egresado de la carrera de Ing.Sistemas Y Software Computacional, con experiencia en Python, C# principalmente y Javascript en menor medida, tengo interes en ingresar a este sector tecnológico, y me apasiona aprender tecnológia nueva, mi fuerte se basa en el Backend con frameworks como Flask o Django pero tengo interes en expandirme al Frontend con Angular y Boostrap</p>
 </div>
 <!--Proyectos-->
@@ -15,7 +15,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="C#" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="FLASK" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" width="40" height="40">&nbsp;
